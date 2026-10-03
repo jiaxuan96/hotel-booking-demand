@@ -25,7 +25,7 @@ Preprocessing settings are calculated from training data only and then applied t
 
 **How to Run**
 
-1. Download the notebook from this repository.
+1. Download hotel_booking_analysis.ipynb from this repository.
 2. Open Google Colab: https://colab.research.google.com/
 3. Select File → Open notebook → Upload and choose the notebook.
 4. Run the cells from top to bottom.
